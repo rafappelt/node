@@ -1,0 +1,17 @@
+{
+  "name": "@appelt/node",
+  "version": "1.0.0",
+  "description": "node testing",
+  "repository": "appelt/node",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.21",
+    "express": "^4.16.4",
+    "loopback": "^3.25.0"
+  }
+}
