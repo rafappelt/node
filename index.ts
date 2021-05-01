@@ -1,7 +1,7 @@
 module.exports = {
-  opa: (name) =>{
-    let msg = "opa " + name + "!";
+  opa: (name) => {
+    let msg = "Olá " + name + "!";
     console.log(msg);
     return msg;
-  }
-}
+  },
+};
