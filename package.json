@@ -1,20 +1,18 @@
 {
     "name": "@appelt/node",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "node testing",
-    "repository": "appelt/node",
+    "repository": "https://github.com/rafappelt/",
     "main": "index.ts",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "bin": {
-        "appelt": "./index.ts"
+        "appelt": "./run.ts"
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@types/node": "^10.12.21",
-        "express": "^4.16.4",
-        "loopback": "^3.25.0"
+        "@types/node": "^10.12.21"
     }
 }
