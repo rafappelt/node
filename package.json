@@ -1,6 +1,6 @@
 {
     "name": "@appelt/node",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "node testing",
     "repository": "https://github.com/rafappelt/",
     "main": "index.ts",
